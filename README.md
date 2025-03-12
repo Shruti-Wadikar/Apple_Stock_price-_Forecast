@@ -12,7 +12,8 @@ Model Evaluation: Assessed performance using RMSE, MAE, and R² metrics.
 
 🛠 Tools & Technologies:
 Python (Pandas, NumPy, Scikit-learn)
-Time Series Models (ARIMA, SARIMA, Facebook Prophet)
+Time Series Models (ARIMA, SARIMA) 
 Deep Learning (LSTM, GRU - TensorFlow/Keras)
 Visualization (Matplotlib, Seaborn, Plotly)
+
 This project aids investors and analysts in making data-driven stock market decisions by forecasting future stock prices with high accuracy. 🚀
